@@ -1,5 +1,5 @@
 # Ohio-Name-Cleaning
-**This is a WORKING README; Last update: Wed. June 29, 2022
+**This is a WORKING README; Last update: Sun. Oct 9, 2022
 
 View more readable version (the working copy) on google drive at:
 https://docs.google.com/document/d/1XBpE-7S0rdP6RpD_vGI1ZmiILcG_qRb2Om8kUtpxiAc/edit?usp=sharing
